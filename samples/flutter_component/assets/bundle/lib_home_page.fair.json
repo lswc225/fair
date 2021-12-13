@@ -44,7 +44,7 @@
                   "style": {
                     "className": "ThemeStyle.headline4",
                     "pa": [
-                      "context"
+                      "^(context)"
                     ]
                   }
                 }
@@ -58,7 +58,7 @@
                   "style": {
                     "className": "ThemeStyle.headline4",
                     "pa": [
-                      "context"
+                      "^(context)"
                     ]
                   }
                 }
@@ -194,5 +194,6 @@
         ]
       }
     }
-  }
+  },
+  "methodMap": {}
 }

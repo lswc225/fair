@@ -20,13 +20,15 @@ dependencies:
     path: ../flutter_version/flutter_1_22_4
 
   flat_buffers: ^1.12.0
-  url_launcher: ^5.7.2
-  http: ^0.12.2
+  url_launcher: ^6.0.17
+#  http: ^0.12.2
+  http: ^0.13.4
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  analyzer: ^0.38.5
+  analyzer: ^2.8.0
   pedantic: ^1.9.2
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
